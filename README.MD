@@ -6,4 +6,5 @@
 3. Run the project
 4. Create git repository `git init`
 
+Django Secret Key Generator: https://django-secret-key-generator.netlify.app/
 
